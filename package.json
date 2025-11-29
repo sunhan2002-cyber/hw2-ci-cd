@@ -1,0 +1,9 @@
+{
+	  "name": "node-app-cicd",
+	    "version": "1.0.0",
+	      "description": "CI/CD Deployment Test",
+	        "main": "app.js",
+		  "scripts": {
+			      "start": "node app.js"
+			        }
+}
